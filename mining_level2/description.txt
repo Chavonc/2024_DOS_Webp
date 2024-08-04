@@ -1,0 +1,16 @@
+各個指令用法：
+
+0. 執行檔案：python3 p2p.py
+
+1. transaction：transaction angel A 100
+
+2. check log：checkLog angel
+
+3. check money：checkMoney angel
+
+4. check chain：checkChain A
+
+5. check all chains：checkAllChains A
+
+6. 共識機制：make_consensus 0
+↑0表示從第1個txt開始檢查。

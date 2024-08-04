@@ -1,0 +1,13 @@
+table#showTask tr:nth-child(odd)
+{
+     background-color:lightgray;
+}
+table#showTask th,
+table#showTask td 
+{
+    width: 20%;
+}
+table#showTask tr 
+{
+    margin-bottom: 30px;
+}

@@ -1,0 +1,7 @@
+Sha256 of previous block: 777
+Next block: 2.txt
+angel, A, 100
+angel, B, 100
+angel, C, 100
+B, A, 1
+B, C, 1
