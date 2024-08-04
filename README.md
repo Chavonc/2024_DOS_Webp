@@ -31,7 +31,7 @@
 <p>2.管理者頁面: 能檢查各節點的CPU性能情況(供圖表分析)</p>
 
 ## final_project: mini_project延伸版
-<h3>使用docker架構、spleeter套件、Youtube API及linebot實現</h3>
+<h3>使用docker架構、spleeter套件、Youtube API、nginx Server及linebot實現</h3>
 <p>語言: python、php</p>
 <h3>用途:</h3>
 <p>1.使用者功能1: 在linebot端搜索Youtube的影片(抓取關鍵詞的Top5)，選擇上傳10分鐘內的音樂audio，能分離出人聲及純音樂，並能各自下載(原音樂、人聲及純音樂)</p>
