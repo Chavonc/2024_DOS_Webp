@@ -27,8 +27,15 @@
 <h3>使用docker架構及spleeter套件實現</h3>
 <p>語言: python、php</p>
 <h3>用途:</h3>
-<p>1.使用者頁面: 上傳10分鐘內的音樂audio，能分離出人聲及純音樂，並能各自下載(人聲及純音樂)</p>
-<p>2.管理者頁面: 能檢查各節點的CPU性能情況(供圖表分析)</p>
+<p>1.使用者功能1: 上傳10分鐘內的音樂audio，能分離出人聲及純音樂，並能各自下載(人聲及純音樂)</p>
+<p>1.使用者功能2: 查看每份檔案的分離運行情況(Waiting、Computing、Finished)</p>
+<p>3.管理者功能: 能檢查各節點的CPU性能情況(供圖表分析)</p>
+<h2>簡單顯示如下:</h2>
+
+![螢幕擷取畫面 2024-08-05 115710](https://github.com/user-attachments/assets/556c0d89-bda8-41a7-a863-68593945430d)
+![螢幕擷取畫面 2024-08-05 115725](https://github.com/user-attachments/assets/d5e71ca2-77f3-42d7-8696-f28b84a87c92)
+![螢幕擷取畫面 2024-08-05 115759](https://github.com/user-attachments/assets/75b777f0-4731-4923-a04a-4435aeb77665)
+
 
 ## final_project: mini_project延伸版
 <h3>使用docker架構、spleeter套件、Youtube API、nginx Server及linebot實現</h3>
